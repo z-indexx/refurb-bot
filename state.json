@@ -60,6 +60,23 @@
    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Purple",
    "u": "/sg/shop/product/fwuh3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Purple"
   },
+  "G1FW9ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "4tb",
+    "dimensionColor": "spaceblack",
+    "dimensionRelYear": "2024",
+    "dimensionScreensize": "16inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "128gb"
+   },
+   "done": true,
+   "p": 9689.0,
+   "s": null,
+   "since": "2026-11-05T07:35:20+00:00",
+   "t": "16-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
+   "u": "/sg/shop/product/g1fw9zp/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
+  },
   "G1L60ZP/A": {
    "cat": "mac",
    "d": {
@@ -1973,20 +1990,6 @@
     "s": null,
     "t": "16-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
     "u": "/sg/shop/product/g1fw4zp/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
-   },
-   "G1FW9ZP/A": {
-    "d": {
-     "dimensionCapacity": "4tb",
-     "dimensionColor": "spaceblack",
-     "dimensionRelYear": "2024",
-     "dimensionScreensize": "16inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "128gb"
-    },
-    "p": 9689.0,
-    "s": null,
-    "t": "16-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
-    "u": "/sg/shop/product/g1fw9zp/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
    },
    "G1FWGZP/A": {
     "d": {
