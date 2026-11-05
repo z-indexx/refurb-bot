@@ -1,0 +1,75 @@
+name: Check Apple refurbished stock
+run-name: ${{ inputs.source == 'timer' && 'Timer check' || 'Manual check' }}
+
+on:
+  # Started every 5 minutes by an outside timer (cron-job.org), see SETUP.md.
+  # GitHub's own "schedule:" trigger is not used: it is late or skipped too often.
+  workflow_dispatch:         # also the "Run workflow" button on the Actions tab
+    inputs:
+      source:
+        description: "Leave as 'manual'"
+        required: false
+        default: manual
+
+permissions:
+  contents: write            # lets the run commit state.json back to the repo
+  actions: read              # lets the failure step see whether the previous run failed too
+
+concurrency:
+  group: refurb-bot          # never two runs at once
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check stock and answer Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # "Run workflow" button -> a silent status message; timer runs send only alerts
+          SEND_STATUS: ${{ inputs.source != 'timer' && '1' || '' }}
+        run: python3 bot.py
+
+      - name: Save state.json back to the repo (only if something changed)
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          [ -f state.json ] && git add state.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed, nothing to commit."
+            exit 0
+          fi
+          git commit --quiet -m "Update state"
+          for i in 1 2 3; do
+            if git pull --rebase --quiet; then
+              git push --quiet && exit 0
+            else
+              git rebase --abort || true
+              echo "::error::state.json changed on GitHub while this run was saving it."
+              exit 1
+            fi
+            sleep 5
+          done
+          exit 1
+
+      - name: Tell me on Telegram if this run failed (once per failure streak)
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          prev=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow check.yml --status completed --limit 1 \
+                 --json conclusion --jq '.[0].conclusion' 2>/dev/null || true)
+          if [ "$prev" = "failure" ]; then
+            echo "The previous run failed too; not messaging again."
+            exit 0
+          fi
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text=⚠️ Refurb bot: a GitHub run failed (the Actions tab has the log). I won't repeat this until a run succeeds again."
