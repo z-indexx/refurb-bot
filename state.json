@@ -1,0 +1,29 @@
+{
+ "daily": {
+  "counts": {},
+  "last": "2026-11-05"
+ },
+ "families": {},
+ "gone": {},
+ "health": {
+  "alerted": false,
+  "since": null
+ },
+ "last_list": [],
+ "menu": 1,
+ "settings": {
+  "daily": 9,
+  "health": true,
+  "min_gone": 0,
+  "newmodel": true,
+  "price": "on",
+  "quiet": null,
+  "restock": true,
+  "soldout": true
+ },
+ "snap": {},
+ "suspect": {},
+ "telegram_offset": 489482103,
+ "version": 1,
+ "watches": []
+}
