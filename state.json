@@ -26,23 +26,6 @@
   ]
  },
  "gone": {
-  "FC6V4ZP/A": {
-   "cat": "mac",
-   "d": {
-    "dimensionCapacity": "512gb",
-    "dimensionColor": "skyblue",
-    "dimensionRelYear": "2025",
-    "dimensionScreensize": "13inch",
-    "refurbClearModel": "macbookair",
-    "tsMemorySize": "24gb"
-   },
-   "done": true,
-   "p": 1749.0,
-   "s": null,
-   "since": "2026-11-05T05:40:27+00:00",
-   "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
-   "u": "/sg/shop/product/fc6v4zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue"
-  },
   "G1L60ZP/A": {
    "cat": "mac",
    "d": {
@@ -134,6 +117,20 @@
     "s": null,
     "t": "15-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Midnight",
     "u": "/sg/shop/product/fc6l4zp/a/Refurbished-15-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight"
+   },
+   "FC6V4ZP/A": {
+    "d": {
+     "dimensionCapacity": "512gb",
+     "dimensionColor": "skyblue",
+     "dimensionRelYear": "2025",
+     "dimensionScreensize": "13inch",
+     "refurbClearModel": "macbookair",
+     "tsMemorySize": "24gb"
+    },
+    "p": 1749.0,
+    "s": "2026-11-05T05:45:26+00:00",
+    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
+    "u": "/sg/shop/product/fc6v4zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue"
    },
    "FC7A4ZP/A": {
     "d": {
