@@ -43,6 +43,23 @@
    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
    "u": "/sg/shop/product/fc6v4zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue"
   },
+  "FWUH3ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "256gb",
+    "dimensionColor": "purple",
+    "dimensionRelYear": "2024",
+    "dimensionScreensize": "24inch",
+    "refurbClearModel": "imac",
+    "tsMemorySize": "16gb"
+   },
+   "done": true,
+   "p": 1659.0,
+   "s": null,
+   "since": "2026-11-05T07:05:22+00:00",
+   "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Purple",
+   "u": "/sg/shop/product/fwuh3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Purple"
+  },
   "G1L60ZP/A": {
    "cat": "mac",
    "d": {
@@ -957,20 +974,6 @@
     "s": null,
     "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Pink",
     "u": "/sg/shop/product/fwug3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Pink"
-   },
-   "FWUH3ZP/A": {
-    "d": {
-     "dimensionCapacity": "256gb",
-     "dimensionColor": "purple",
-     "dimensionRelYear": "2024",
-     "dimensionScreensize": "24inch",
-     "refurbClearModel": "imac",
-     "tsMemorySize": "16gb"
-    },
-    "p": 1659.0,
-    "s": null,
-    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Purple",
-    "u": "/sg/shop/product/fwuh3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Purple"
    },
    "FWUU3ZP/A": {
     "d": {
