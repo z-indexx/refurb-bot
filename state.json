@@ -44,6 +44,21 @@
    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
    "u": "/sg/shop/product/fc6v4zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue"
   },
+  "FU973ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio",
+    "tsMemorySize": "96gb"
+   },
+   "done": true,
+   "p": 6299.0,
+   "s": "2026-11-06T08:45:27+00:00",
+   "since": "2026-11-06T08:50:34+00:00",
+   "t": "Mac Studio Apple M3 Ultra chip with 28-Core CPU and 60-Core GPU",
+   "u": "/sg/shop/product/fu973zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU"
+  },
   "FW1L3ZP/A": {
    "cat": "mac",
    "d": {
@@ -94,6 +109,65 @@
    "since": "2026-11-05T07:05:22+00:00",
    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Purple",
    "u": "/sg/shop/product/fwuh3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Purple"
+  },
+  "G1CD0ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio",
+    "tsMemorySize": "48gb"
+   },
+   "done": true,
+   "p": 3489.0,
+   "s": "2026-11-06T08:45:27+00:00",
+   "since": "2026-11-06T08:50:34+00:00",
+   "t": "Mac Studio Apple M4 Max chip with 16-Core CPU and 40-Core GPU",
+   "u": "/sg/shop/product/g1cd0zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU"
+  },
+  "G1CD4ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio",
+    "tsMemorySize": "48gb"
+   },
+   "done": true,
+   "p": 3879.0,
+   "s": "2026-11-06T08:45:27+00:00",
+   "since": "2026-11-06T08:50:34+00:00",
+   "t": "Mac Studio Apple M4 Max chip with 16-Core CPU and 40-Core GPU",
+   "u": "/sg/shop/product/g1cd4zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU"
+  },
+  "G1CD7ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "2tb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio",
+    "tsMemorySize": "36gb"
+   },
+   "done": true,
+   "p": 3749.0,
+   "s": "2026-11-06T08:45:27+00:00",
+   "since": "2026-11-06T08:50:34+00:00",
+   "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
+   "u": "/sg/shop/product/g1cd7zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
+  },
+  "G1CE3ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio"
+   },
+   "done": true,
+   "p": 21469.0,
+   "s": "2026-11-06T08:45:27+00:00",
+   "since": "2026-11-06T08:50:34+00:00",
+   "t": "Mac Studio Apple M3 Ultra chip with 32-Core CPU and 80-Core GPU",
+   "u": "/sg/shop/product/g1ce3zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU"
   },
   "G1FW9ZP/A": {
    "cat": "mac",
@@ -863,18 +937,6 @@
     "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
     "u": "/sg/shop/product/fu963zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
    },
-   "FU973ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio",
-     "tsMemorySize": "96gb"
-    },
-    "p": 6299.0,
-    "s": "2026-11-06T08:45:27+00:00",
-    "t": "Mac Studio Apple M3 Ultra chip with 28-Core CPU and 60-Core GPU",
-    "u": "/sg/shop/product/fu973zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU"
-   },
    "FU9E3ZP/A": {
     "d": {
      "dimensionCapacity": "512gb",
@@ -1414,18 +1476,6 @@
     "t": "Apple Studio Display, Nano-texture glass, Tilt- and height-adjustable stand",
     "u": "/sg/shop/product/fyjj3zp/a/Refurbished-Apple-Studio-Display-Nano-texture-glass-Tilt-and-height-adjustable-stand"
    },
-   "G1CD0ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio",
-     "tsMemorySize": "48gb"
-    },
-    "p": 3489.0,
-    "s": "2026-11-06T08:45:27+00:00",
-    "t": "Mac Studio Apple M4 Max chip with 16-Core CPU and 40-Core GPU",
-    "u": "/sg/shop/product/g1cd0zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU"
-   },
    "G1CD3ZP/A": {
     "d": {
      "dimensionCapacity": "1tb",
@@ -1437,41 +1487,6 @@
     "s": null,
     "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
     "u": "/sg/shop/product/g1cd3zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
-   },
-   "G1CD4ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio",
-     "tsMemorySize": "48gb"
-    },
-    "p": 3879.0,
-    "s": "2026-11-06T08:45:27+00:00",
-    "t": "Mac Studio Apple M4 Max chip with 16-Core CPU and 40-Core GPU",
-    "u": "/sg/shop/product/g1cd4zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU"
-   },
-   "G1CD7ZP/A": {
-    "d": {
-     "dimensionCapacity": "2tb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio",
-     "tsMemorySize": "36gb"
-    },
-    "p": 3749.0,
-    "s": "2026-11-06T08:45:27+00:00",
-    "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
-    "u": "/sg/shop/product/g1cd7zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
-   },
-   "G1CE3ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio"
-    },
-    "p": 21469.0,
-    "s": "2026-11-06T08:45:27+00:00",
-    "t": "Mac Studio Apple M3 Ultra chip with 32-Core CPU and 80-Core GPU",
-    "u": "/sg/shop/product/g1ce3zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU"
    },
    "G1CF0ZP/A": {
     "d": {
