@@ -79,6 +79,23 @@
    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Purple",
    "u": "/sg/shop/product/fwuh3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Purple"
   },
+  "G1FE4ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "spaceblack",
+    "dimensionRelYear": "2024",
+    "dimensionScreensize": "14inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "48gb"
+   },
+   "done": true,
+   "p": 3639.0,
+   "s": "2026-11-06T10:20:27+00:00",
+   "since": "2026-11-06T12:30:35+00:00",
+   "t": "14-inch MacBook Pro Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU - Space Black",
+   "u": "/sg/shop/product/g1fe4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-12%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Space-Black"
+  },
   "G1FW9ZP/A": {
    "cat": "mac",
    "d": {
@@ -129,6 +146,23 @@
    "since": "2026-11-06T04:15:25+00:00",
    "t": "14-inch MacBook Pro Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
    "u": "/sg/shop/product/g1kn2zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver"
+  },
+  "G1L52ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "starlight",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "32gb"
+   },
+   "done": true,
+   "p": 2499.0,
+   "s": "2026-11-06T10:20:27+00:00",
+   "since": "2026-11-06T12:30:35+00:00",
+   "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
+   "u": "/sg/shop/product/g1l52zp/a"
   },
   "G1L60ZP/A": {
    "cat": "mac",
@@ -2089,20 +2123,6 @@
     "t": "14-inch MacBook Pro Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU - Space Black",
     "u": "/sg/shop/product/g1fe0zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-12%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Space-Black"
    },
-   "G1FE4ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "spaceblack",
-     "dimensionRelYear": "2024",
-     "dimensionScreensize": "14inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "48gb"
-    },
-    "p": 3639.0,
-    "s": "2026-11-06T10:20:27+00:00",
-    "t": "14-inch MacBook Pro Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU - Space Black",
-    "u": "/sg/shop/product/g1fe4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-12%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Space-Black"
-   },
    "G1FEEZP/A": {
     "d": {
      "dimensionCapacity": "1tb",
@@ -3072,20 +3092,6 @@
     "s": null,
     "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
     "u": "/sg/shop/product/g1l41zp/a"
-   },
-   "G1L52ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "starlight",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "32gb"
-    },
-    "p": 2499.0,
-    "s": "2026-11-06T10:20:27+00:00",
-    "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
-    "u": "/sg/shop/product/g1l52zp/a"
    },
    "G1L61ZP/A": {
     "d": {
