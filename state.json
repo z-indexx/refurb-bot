@@ -43,23 +43,6 @@
    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
    "u": "/sg/shop/product/fc6v4zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue"
   },
-  "FW1L3ZP/A": {
-   "cat": "mac",
-   "d": {
-    "dimensionCapacity": "256gb",
-    "dimensionColor": "midnight",
-    "dimensionRelYear": "2025",
-    "dimensionScreensize": "15inch",
-    "refurbClearModel": "macbookair",
-    "tsMemorySize": "16gb"
-   },
-   "done": true,
-   "p": 1489.0,
-   "s": null,
-   "since": "2026-11-06T06:20:26+00:00",
-   "t": "15-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Midnight",
-   "u": "/sg/shop/product/fw1l3zp/a/Refurbished-15-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight"
-  },
   "FW2W3ZP/A": {
    "cat": "mac",
    "d": {
@@ -902,6 +885,20 @@
     "s": null,
     "t": "15-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Starlight",
     "u": "/sg/shop/product/fw1k3zp/a/Refurbished-15-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Starlight"
+   },
+   "FW1L3ZP/A": {
+    "d": {
+     "dimensionCapacity": "256gb",
+     "dimensionColor": "midnight",
+     "dimensionRelYear": "2025",
+     "dimensionScreensize": "15inch",
+     "refurbClearModel": "macbookair",
+     "tsMemorySize": "16gb"
+    },
+    "p": 1489.0,
+    "s": "2026-11-06T06:30:38+00:00",
+    "t": "15-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Midnight",
+    "u": "/sg/shop/product/fw1l3zp/a/Refurbished-15-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight"
    },
    "FW1M3ZP/A": {
     "d": {
