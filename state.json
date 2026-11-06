@@ -79,6 +79,20 @@
    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Purple",
    "u": "/sg/shop/product/fwuh3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Purple"
   },
+  "FYJH3ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionRelYear": "2022",
+    "dimensionScreensize": "27inch",
+    "refurbClearModel": "display"
+   },
+   "done": true,
+   "p": 1689.0,
+   "s": null,
+   "since": "2026-11-06T16:10:27+00:00",
+   "t": "Apple Studio Display, Standard glass, VESA mount adapter",
+   "u": "/sg/shop/product/fyjh3zp/a/Refurbished-Apple-Studio-Display-Standard-glass-VESA-mount-adapter"
+  },
   "G1FE4ZP/A": {
    "cat": "mac",
    "d": {
@@ -1709,17 +1723,6 @@
     "s": null,
     "t": "16-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
     "u": "/sg/shop/product/fx313zp/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
-   },
-   "FYJH3ZP/A": {
-    "d": {
-     "dimensionRelYear": "2022",
-     "dimensionScreensize": "27inch",
-     "refurbClearModel": "display"
-    },
-    "p": 1689.0,
-    "s": null,
-    "t": "Apple Studio Display, Standard glass, VESA mount adapter",
-    "u": "/sg/shop/product/fyjh3zp/a/Refurbished-Apple-Studio-Display-Standard-glass-VESA-mount-adapter"
    },
    "FYJJ3ZP/A": {
     "d": {
