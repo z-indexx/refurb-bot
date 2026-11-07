@@ -110,6 +110,20 @@
    "t": "Apple Studio Display, Standard glass, VESA mount adapter",
    "u": "/sg/shop/product/fyjh3zp/a/Refurbished-Apple-Studio-Display-Standard-glass-VESA-mount-adapter"
   },
+  "G1CE3ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio"
+   },
+   "done": true,
+   "p": 21469.0,
+   "s": "2026-11-06T08:55:23+00:00",
+   "since": "2026-11-07T15:00:43+00:00",
+   "t": "Mac Studio Apple M3 Ultra chip with 32-Core CPU and 80-Core GPU",
+   "u": "/sg/shop/product/g1ce3zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU"
+  },
   "G1FE4ZP/A": {
    "cat": "mac",
    "d": {
@@ -1835,17 +1849,6 @@
     "s": "2026-11-06T08:55:23+00:00",
     "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
     "u": "/sg/shop/product/g1cd7zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
-   },
-   "G1CE3ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio"
-    },
-    "p": 21469.0,
-    "s": "2026-11-06T08:55:23+00:00",
-    "t": "Mac Studio Apple M3 Ultra chip with 32-Core CPU and 80-Core GPU",
-    "u": "/sg/shop/product/g1ce3zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU"
    },
    "G1CF0ZP/A": {
     "d": {
