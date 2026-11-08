@@ -127,6 +127,20 @@
    "t": "Apple Studio Display, Standard glass, VESA mount adapter",
    "u": "/sg/shop/product/fyjh3zp/a/Refurbished-Apple-Studio-Display-Standard-glass-VESA-mount-adapter"
   },
+  "FYJJ3ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionRelYear": "2022",
+    "dimensionScreensize": "27inch",
+    "refurbClearModel": "display"
+   },
+   "done": true,
+   "p": 2469.0,
+   "s": "2026-11-08T13:25:22+00:00",
+   "since": "2026-11-08T13:30:37+00:00",
+   "t": "Apple Studio Display, Nano-texture glass, Tilt- and height-adjustable stand",
+   "u": "/sg/shop/product/fyjj3zp/a/Refurbished-Apple-Studio-Display-Nano-texture-glass-Tilt-and-height-adjustable-stand"
+  },
   "G1CE3ZP/A": {
    "cat": "mac",
    "d": {
@@ -1827,17 +1841,6 @@
     "s": null,
     "t": "16-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
     "u": "/sg/shop/product/fx313zp/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
-   },
-   "FYJJ3ZP/A": {
-    "d": {
-     "dimensionRelYear": "2022",
-     "dimensionScreensize": "27inch",
-     "refurbClearModel": "display"
-    },
-    "p": 2469.0,
-    "s": "2026-11-08T13:25:22+00:00",
-    "t": "Apple Studio Display, Nano-texture glass, Tilt- and height-adjustable stand",
-    "u": "/sg/shop/product/fyjj3zp/a/Refurbished-Apple-Studio-Display-Nano-texture-glass-Tilt-and-height-adjustable-stand"
    },
    "G1CD0ZP/A": {
     "d": {
