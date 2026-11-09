@@ -141,6 +141,21 @@
    "t": "Apple Studio Display, Nano-texture glass, Tilt- and height-adjustable stand",
    "u": "/sg/shop/product/fyjj3zp/a/Refurbished-Apple-Studio-Display-Nano-texture-glass-Tilt-and-height-adjustable-stand"
   },
+  "G1CD0ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio",
+    "tsMemorySize": "48gb"
+   },
+   "done": true,
+   "p": 3489.0,
+   "s": "2026-11-06T08:55:23+00:00",
+   "since": "2026-11-09T06:05:22+00:00",
+   "t": "Mac Studio Apple M4 Max chip with 16-Core CPU and 40-Core GPU",
+   "u": "/sg/shop/product/g1cd0zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU"
+  },
   "G1CE3ZP/A": {
    "cat": "mac",
    "d": {
@@ -1858,18 +1873,6 @@
     "s": null,
     "t": "16-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
     "u": "/sg/shop/product/fx313zp/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
-   },
-   "G1CD0ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio",
-     "tsMemorySize": "48gb"
-    },
-    "p": 3489.0,
-    "s": "2026-11-06T08:55:23+00:00",
-    "t": "Mac Studio Apple M4 Max chip with 16-Core CPU and 40-Core GPU",
-    "u": "/sg/shop/product/g1cd0zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU"
    },
    "G1CD3ZP/A": {
     "d": {
