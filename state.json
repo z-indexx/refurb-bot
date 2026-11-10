@@ -424,6 +424,23 @@
    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Midnight",
    "u": "/sg/shop/product/g1ly2zp/a"
   },
+  "G1M22ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "skyblue",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "15inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "32gb"
+   },
+   "done": true,
+   "p": 2759.0,
+   "s": "2026-11-06T10:20:27+00:00",
+   "since": "2026-11-10T05:05:21+00:00",
+   "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
+   "u": "/sg/shop/product/g1m22zp/a"
+  },
   "G1N28ZP/A": {
    "cat": "mac",
    "d": {
@@ -3325,20 +3342,6 @@
     "s": "2026-11-06T10:20:27+00:00",
     "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
     "u": "/sg/shop/product/g1lz0zp/a"
-   },
-   "G1M22ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "skyblue",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "15inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "32gb"
-    },
-    "p": 2759.0,
-    "s": "2026-11-06T10:20:27+00:00",
-    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
-    "u": "/sg/shop/product/g1m22zp/a"
    },
    "G1MHAZP/A": {
     "d": {
