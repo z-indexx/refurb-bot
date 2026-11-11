@@ -329,6 +329,23 @@
    "t": "14-inch MacBook Pro Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU - Space Black",
    "u": "/sg/shop/product/g1ff3zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Pro-Chip-with-14%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black"
   },
+  "G1FGCZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "2tb",
+    "dimensionColor": "spaceblack",
+    "dimensionRelYear": "2024",
+    "dimensionScreensize": "14inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "128gb"
+   },
+   "done": true,
+   "p": 8149.0,
+   "s": null,
+   "since": "2026-11-11T21:10:29+00:00",
+   "t": "14-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
+   "u": "/sg/shop/product/g1fgczp/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
+  },
   "G1FW9ZP/A": {
    "cat": "mac",
    "d": {
@@ -2581,20 +2598,6 @@
     "s": null,
     "t": "14-inch MacBook Pro Apple M4 Max Chip with 14-Core CPU and 32-Core GPU - Space Black",
     "u": "/sg/shop/product/g1fg0zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU-Space-Black"
-   },
-   "G1FGCZP/A": {
-    "d": {
-     "dimensionCapacity": "2tb",
-     "dimensionColor": "spaceblack",
-     "dimensionRelYear": "2024",
-     "dimensionScreensize": "14inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "128gb"
-    },
-    "p": 8149.0,
-    "s": null,
-    "t": "14-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
-    "u": "/sg/shop/product/g1fgczp/a/Refurbished-14-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
    },
    "G1FP0ZP/A": {
     "d": {
