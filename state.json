@@ -28,7 +28,9 @@
    "mac mini, m4 pro",
    "mac studio, m3 ultra",
    "mac studio, m4 max",
-   "macbook neo, a18 pro"
+   "macbook neo, a18 pro",
+   "studio display",
+   "studio display xdr"
   ]
  },
  "gone": {
@@ -218,23 +220,6 @@
    "since": "2026-11-10T03:05:21+00:00",
    "t": "14-inch MacBook Pro Apple M4 Chip with 10-Core CPU and 10-Core GPU - Silver",
    "u": "/sg/shop/product/fw2x3zp/a/refurbished-14-inch-macbook-pro-apple-m4-chip-with-10%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver"
-  },
-  "FWUH3ZP/A": {
-   "cat": "mac",
-   "d": {
-    "dimensionCapacity": "256gb",
-    "dimensionColor": "purple",
-    "dimensionRelYear": "2024",
-    "dimensionScreensize": "24inch",
-    "refurbClearModel": "imac",
-    "tsMemorySize": "16gb"
-   },
-   "done": true,
-   "p": 1659.0,
-   "s": null,
-   "since": "2026-11-05T07:05:22+00:00",
-   "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Purple",
-   "u": "/sg/shop/product/fwuh3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Purple"
   },
   "FYJH3ZP/A": {
    "cat": "mac",
@@ -1216,6 +1201,83 @@
     "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
     "u": "/sg/shop/product/fdvu4zp/a"
    },
+   "FFEL4ZP/A": {
+    "d": {
+     "dimensionRelYear": "2026",
+     "dimensionScreensize": "27inch",
+     "refurbClearModel": "display"
+    },
+    "p": 3819.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "Studio Display XDR - Standard glass - Tilt- and height-adjustable stand",
+    "u": "/sg/shop/product/ffel4zp/a/standard-glass-tilt-and-height-adjustable-stand"
+   },
+   "FFEP4ZP/A": {
+    "d": {
+     "dimensionRelYear": "2026",
+     "dimensionScreensize": "27inch",
+     "refurbClearModel": "display"
+    },
+    "p": 4159.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "Studio Display XDR - Nano-texture glass - Tilt- and height-adjustable stand",
+    "u": "/sg/shop/product/ffep4zp/a/nano-texture-glass-tilt-and-height-adjustable-stand"
+   },
+   "FFEQ4ZP/A": {
+    "d": {
+     "dimensionRelYear": "2026",
+     "dimensionScreensize": "27inch",
+     "refurbClearModel": "display"
+    },
+    "p": 3739.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "Studio Display XDR - Nano-texture glass - VESA mount adapter",
+    "u": "/sg/shop/product/ffeq4zp/a/nano-texture-glass-vesa-mount-adapter"
+   },
+   "FFEW4ZP/A": {
+    "d": {
+     "dimensionRelYear": "2026",
+     "dimensionScreensize": "27inch",
+     "refurbClearModel": "display"
+    },
+    "p": 2289.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "Studio Display - Standard glass - Tilt- and height-adjustable stand",
+    "u": "/sg/shop/product/ffew4zp/a/Refurbished-Studio-Display-Standard-glass-Tilt-and-height-adjustable-stand"
+   },
+   "FFEX4ZP/A": {
+    "d": {
+     "dimensionRelYear": "2026",
+     "dimensionScreensize": "27inch",
+     "refurbClearModel": "display"
+    },
+    "p": 1869.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "Studio Display - Standard glass - Tilt-adjustable stand",
+    "u": "/sg/shop/product/ffex4zp/a/Refurbished-Studio-Display-Standard-glass-Tilt-adjustable-stand"
+   },
+   "FFF04ZP/A": {
+    "d": {
+     "dimensionRelYear": "2026",
+     "dimensionScreensize": "27inch",
+     "refurbClearModel": "display"
+    },
+    "p": 2629.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "Studio Display - Nano-texture glass - Tilt- and height-adjustable stand",
+    "u": "/sg/shop/product/fff04zp/a/Refurbished-Studio-Display-Nano-texture-glass-Tilt-and-height-adjustable-stand"
+   },
+   "FFF14ZP/A": {
+    "d": {
+     "dimensionRelYear": "2026",
+     "dimensionScreensize": "27inch",
+     "refurbClearModel": "display"
+    },
+    "p": 2199.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "Studio Display - Nano-texture glass - Tilt-adjustable stand",
+    "u": "/sg/shop/product/fff14zp/a/Refurbished-Studio-Display-Nano-texture-glass-Tilt-adjustable-stand"
+   },
    "FGDN4ZP/A": {
     "d": {
      "dimensionCapacity": "1tb",
@@ -1658,6 +1720,20 @@
     "s": null,
     "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Pink",
     "u": "/sg/shop/product/fwug3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Pink"
+   },
+   "FWUH3ZP/A": {
+    "d": {
+     "dimensionCapacity": "256gb",
+     "dimensionColor": "purple",
+     "dimensionRelYear": "2024",
+     "dimensionScreensize": "24inch",
+     "refurbClearModel": "imac",
+     "tsMemorySize": "16gb"
+    },
+    "p": 1659.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Purple",
+    "u": "/sg/shop/product/fwuh3zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Purple"
    },
    "FWUU3ZP/A": {
     "d": {
@@ -2169,6 +2245,48 @@
     "s": null,
     "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Silver",
     "u": "/sg/shop/product/g1e21zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Silver"
+   },
+   "G1E24ZP/A": {
+    "d": {
+     "dimensionCapacity": "512gb",
+     "dimensionColor": "silver",
+     "dimensionRelYear": "2024",
+     "dimensionScreensize": "24inch",
+     "refurbClearModel": "imac",
+     "tsMemorySize": "24gb"
+    },
+    "p": 2169.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Silver",
+    "u": "/sg/shop/product/g1e24zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Silver"
+   },
+   "G1E30ZP/A": {
+    "d": {
+     "dimensionCapacity": "256gb",
+     "dimensionColor": "yellow",
+     "dimensionRelYear": "2024",
+     "dimensionScreensize": "24inch",
+     "refurbClearModel": "imac",
+     "tsMemorySize": "16gb"
+    },
+    "p": 1699.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU, Gigabit Ethernet - Yellow",
+    "u": "/sg/shop/product/g1e30zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Gigabit-Ethernet-Yellow"
+   },
+   "G1E51ZP/A": {
+    "d": {
+     "dimensionCapacity": "512gb",
+     "dimensionColor": "blue",
+     "dimensionRelYear": "2024",
+     "dimensionScreensize": "24inch",
+     "refurbClearModel": "imac",
+     "tsMemorySize": "16gb"
+    },
+    "p": 1909.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "24-inch iMac Apple M4 Chip with 8-Core CPU and 8-Core GPU - Blue",
+    "u": "/sg/shop/product/g1e51zp/a/Refurbished-24-inch-iMac-Apple-M4-Chip-with-8-Core-CPU-and-8-Core-GPU-Blue"
    },
    "G1E52ZP/A": {
     "d": {
@@ -3073,6 +3191,20 @@
     "s": null,
     "t": "24-inch iMac Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet - Blue",
     "u": "/sg/shop/product/g1k56zp/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-blue"
+   },
+   "G1K60ZP/A": {
+    "d": {
+     "dimensionCapacity": "1tb",
+     "dimensionColor": "pink",
+     "dimensionRelYear": "2024",
+     "dimensionScreensize": "24inch",
+     "refurbClearModel": "imac",
+     "tsMemorySize": "24gb"
+    },
+    "p": 2809.0,
+    "s": "2026-11-11T10:30:35+00:00",
+    "t": "24-inch iMac Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet - Pink",
+    "u": "/sg/shop/product/g1k60zp/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-pink"
    },
    "G1K66ZP/A": {
     "d": {
