@@ -100,6 +100,23 @@
    "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Silver",
    "u": "/sg/shop/product/fgdp4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver"
   },
+  "FLY33ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "256gb",
+    "dimensionColor": "midnight",
+    "dimensionRelYear": "2022",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "8gb"
+   },
+   "done": true,
+   "p": 999.0,
+   "s": "2026-11-10T10:45:28+00:00",
+   "since": "2026-11-12T10:20:29+00:00",
+   "t": "13-inch MacBook Air Apple M2 Chip with 8-Core CPU and 8-Core GPU - Midnight",
+   "u": "/sg/shop/product/fly33zp/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight"
+  },
   "FW0W3ZP/A": {
    "cat": "mac",
    "d": {
@@ -1640,20 +1657,6 @@
     "s": null,
     "t": "MacBook Neo Apple A18 Pro chip with Touch ID - Blush",
     "u": "/sg/shop/product/fhfj4zp/a/13%E2%80%91inch-macbook-neo-blush"
-   },
-   "FLY33ZP/A": {
-    "d": {
-     "dimensionCapacity": "256gb",
-     "dimensionColor": "midnight",
-     "dimensionRelYear": "2022",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "8gb"
-    },
-    "p": 999.0,
-    "s": "2026-11-10T10:45:28+00:00",
-    "t": "13-inch MacBook Air Apple M2 Chip with 8-Core CPU and 8-Core GPU - Midnight",
-    "u": "/sg/shop/product/fly33zp/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight"
    },
    "FU963ZP/A": {
     "d": {
