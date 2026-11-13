@@ -714,6 +714,22 @@
    "t": "Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, Gigabit Ethernet",
    "u": "/sg/shop/product/g1kzczp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-"
   },
+  "G1KZQZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2024",
+    "refurbClearModel": "macmini",
+    "tsMemorySize": "24gb"
+   },
+   "done": true,
+   "p": 2249.0,
+   "s": null,
+   "since": "2026-11-13T09:35:19+00:00",
+   "t": "Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, Gigabit Ethernet",
+   "u": "/sg/shop/product/g1kzqzp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-"
+  },
   "G1L52ZP/A": {
    "cat": "mac",
    "d": {
@@ -3415,19 +3431,6 @@
     "s": null,
     "t": "Mac mini Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU, Gigabit Ethernet",
     "u": "/sg/shop/product/g1kzazp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-12-Core-CPU-and-16-Core-GPU-Gigabit-Ethernet-"
-   },
-   "G1KZQZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2024",
-     "refurbClearModel": "macmini",
-     "tsMemorySize": "24gb"
-    },
-    "p": 2249.0,
-    "s": null,
-    "t": "Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, Gigabit Ethernet",
-    "u": "/sg/shop/product/g1kzqzp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-"
    },
    "G1L00ZP/A": {
     "d": {
