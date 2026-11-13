@@ -781,6 +781,23 @@
    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
    "u": "/sg/shop/product/g1lq0zp/a"
   },
+  "G1LT1ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "starlight",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "15inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "32gb"
+   },
+   "done": true,
+   "p": 2369.0,
+   "s": "2026-11-06T10:20:27+00:00",
+   "since": "2026-11-13T14:10:26+00:00",
+   "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
+   "u": "/sg/shop/product/g1lt1zp/a"
+  },
   "G1LY2ZP/A": {
    "cat": "mac",
    "d": {
@@ -3613,20 +3630,6 @@
     "s": null,
     "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
     "u": "/sg/shop/product/g1lt0zp/a"
-   },
-   "G1LT1ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "starlight",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "15inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "32gb"
-    },
-    "p": 2369.0,
-    "s": "2026-11-06T10:20:27+00:00",
-    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
-    "u": "/sg/shop/product/g1lt1zp/a"
    },
    "G1LW0ZP/A": {
     "d": {
