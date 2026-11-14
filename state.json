@@ -3746,7 +3746,7 @@
   }
  },
  "suspect": {},
- "telegram_offset": 489482109,
+ "telegram_offset": 489482110,
  "version": 1,
  "watches": [
   {
@@ -3836,6 +3836,28 @@
     "ram": "24gb",
     "size": "14inch",
     "ssd": "1tb",
+    "words": [],
+    "year": null
+   }
+  },
+  {
+   "added": "2026-11-14T01:20:27+00:00",
+   "cat": "mac",
+   "kind": "spec",
+   "spec": {
+    "case": null,
+    "chip": null,
+    "cores": [],
+    "max": null,
+    "mem": [],
+    "model": [
+     "macbook",
+     "pro"
+    ],
+    "nano": null,
+    "ram": "48gb",
+    "size": "14inch",
+    "ssd": null,
     "words": [],
     "year": null
    }
