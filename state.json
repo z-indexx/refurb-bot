@@ -681,23 +681,6 @@
    "t": "14-inch MacBook Pro Apple M5 chip with 10-Core CPU and 10-Core GPU - Space Black",
    "u": "/sg/shop/product/g1kk2zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Black"
   },
-  "G1KK5ZP/A": {
-   "cat": "mac",
-   "d": {
-    "dimensionCapacity": "1tb",
-    "dimensionColor": "silver",
-    "dimensionRelYear": "2025",
-    "dimensionScreensize": "14inch",
-    "refurbClearModel": "macbookpro",
-    "tsMemorySize": "24gb"
-   },
-   "done": true,
-   "p": 2619.0,
-   "s": null,
-   "since": "2026-11-14T14:20:28+00:00",
-   "t": "14-inch MacBook Pro Apple M5 chip with 10-Core CPU and 10-Core GPU, Nano-texture display - Space Black",
-   "u": "/sg/shop/product/g1kk5zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Nano-texture-display-Space-Black"
-  },
   "G1KN2ZP/A": {
    "cat": "mac",
    "d": {
@@ -3411,6 +3394,20 @@
     "s": null,
     "t": "24-inch iMac Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet, Nano-texture glass - Orange",
     "u": "/sg/shop/product/g1k88zp/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-nano-texture-glass-orange"
+   },
+   "G1KK5ZP/A": {
+    "d": {
+     "dimensionCapacity": "1tb",
+     "dimensionColor": "silver",
+     "dimensionRelYear": "2025",
+     "dimensionScreensize": "14inch",
+     "refurbClearModel": "macbookpro",
+     "tsMemorySize": "24gb"
+    },
+    "p": 2619.0,
+    "s": "2026-11-14T14:25:21+00:00",
+    "t": "14-inch MacBook Pro Apple M5 chip with 10-Core CPU and 10-Core GPU, Nano-texture display - Space Black",
+    "u": "/sg/shop/product/g1kk5zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Nano-texture-display-Space-Black"
    },
    "G1KM2ZP/A": {
     "d": {
