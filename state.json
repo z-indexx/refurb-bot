@@ -219,6 +219,22 @@
    "t": "13-inch MacBook Air Apple M2 Chip with 8-Core CPU and 8-Core GPU - Midnight",
    "u": "/sg/shop/product/fly33zp/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight"
   },
+  "FU9E3ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2024",
+    "refurbClearModel": "macmini",
+    "tsMemorySize": "16gb"
+   },
+   "done": true,
+   "p": 1229.0,
+   "s": null,
+   "since": "2026-11-17T02:10:30+00:00",
+   "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
+   "u": "/sg/shop/product/fu9e3zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
+  },
   "FW0W3ZP/A": {
    "cat": "mac",
    "d": {
@@ -1902,19 +1918,6 @@
     "s": "2026-11-06T08:55:23+00:00",
     "t": "Mac Studio Apple M3 Ultra chip with 28-Core CPU and 60-Core GPU",
     "u": "/sg/shop/product/fu973zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU"
-   },
-   "FU9E3ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2024",
-     "refurbClearModel": "macmini",
-     "tsMemorySize": "16gb"
-    },
-    "p": 1229.0,
-    "s": null,
-    "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
-    "u": "/sg/shop/product/fu9e3zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
    },
    "FW133ZP/A": {
     "d": {
