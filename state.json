@@ -1,6 +1,8 @@
 {
  "daily": {
-  "counts": {},
+  "counts": {
+   "soldout": 1
+  },
   "last": "2026-11-18"
  },
  "families": {
@@ -133,6 +135,23 @@
    "since": "2026-11-18T05:30:34+00:00",
    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
    "u": "/sg/shop/product/fdvc4zp/a"
+  },
+  "FGDN4ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "14inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "24gb"
+   },
+   "done": true,
+   "p": 2969.0,
+   "s": "2026-11-17T20:00:47+00:00",
+   "since": "2026-11-18T09:15:25+00:00",
+   "t": "14-inch MacBook Pro Apple M5 Pro chip with 15-Core CPU and 16-Core GPU - Silver",
+   "u": "/sg/shop/product/fgdn4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Silver"
   },
   "FGDP4ZP/A": {
    "cat": "mac",
@@ -1551,20 +1570,6 @@
     "s": "2026-11-17T20:00:47+00:00",
     "t": "Studio Display - Nano-texture glass - Tilt-adjustable stand",
     "u": "/sg/shop/product/fff14zp/a/Refurbished-Studio-Display-Nano-texture-glass-Tilt-adjustable-stand"
-   },
-   "FGDN4ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "14inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "24gb"
-    },
-    "p": 2969.0,
-    "s": "2026-11-17T20:00:47+00:00",
-    "t": "14-inch MacBook Pro Apple M5 Pro chip with 15-Core CPU and 16-Core GPU - Silver",
-    "u": "/sg/shop/product/fgdn4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Silver"
    },
    "FGE44ZP/A": {
     "d": {
@@ -3737,34 +3742,9 @@
   }
  },
  "suspect": {},
- "telegram_offset": 489482110,
+ "telegram_offset": 489482111,
  "version": 1,
  "watches": [
-  {
-   "added": "2026-11-05T04:00:25+00:00",
-   "cat": "mac",
-   "kind": "spec",
-   "spec": {
-    "case": null,
-    "chip": "M5",
-    "cores": [],
-    "max": null,
-    "mem": [
-     "24gb",
-     "512gb"
-    ],
-    "model": [
-     "macbook",
-     "pro"
-    ],
-    "nano": null,
-    "ram": null,
-    "size": null,
-    "ssd": null,
-    "words": [],
-    "year": null
-   }
-  },
   {
    "added": "2026-11-05T05:40:28+00:00",
    "cat": "mac",
