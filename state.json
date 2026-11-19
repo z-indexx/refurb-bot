@@ -286,6 +286,23 @@
    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 8-Core GPU - Midnight",
    "u": "/sg/shop/product/fw123zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-8%E2%80%91Core-GPU-Midnight"
   },
+  "FW133ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "midnight",
+    "dimensionRelYear": "2025",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "16gb"
+   },
+   "done": true,
+   "p": 1499.0,
+   "s": "2026-11-17T20:00:47+00:00",
+   "since": "2026-11-19T05:20:25+00:00",
+   "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Midnight",
+   "u": "/sg/shop/product/fw133zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight"
+  },
   "FW1L3ZP/A": {
    "cat": "mac",
    "d": {
@@ -1816,20 +1833,6 @@
     "s": "2026-11-17T20:00:47+00:00",
     "t": "Mac Studio Apple M3 Ultra chip with 28-Core CPU and 60-Core GPU",
     "u": "/sg/shop/product/fu973zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU"
-   },
-   "FW133ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "midnight",
-     "dimensionRelYear": "2025",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "16gb"
-    },
-    "p": 1499.0,
-    "s": "2026-11-17T20:00:47+00:00",
-    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Midnight",
-    "u": "/sg/shop/product/fw133zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Midnight"
    },
    "FW1H3ZP/A": {
     "d": {
