@@ -219,22 +219,6 @@
    "t": "13-inch MacBook Air Apple M2 Chip with 8-Core CPU and 8-Core GPU - Midnight",
    "u": "/sg/shop/product/fly33zp/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight"
   },
-  "FU9E3ZP/A": {
-   "cat": "mac",
-   "d": {
-    "dimensionCapacity": "512gb",
-    "dimensionColor": "silver",
-    "dimensionRelYear": "2024",
-    "refurbClearModel": "macmini",
-    "tsMemorySize": "16gb"
-   },
-   "done": true,
-   "p": 1229.0,
-   "s": null,
-   "since": "2026-11-17T02:10:30+00:00",
-   "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
-   "u": "/sg/shop/product/fu9e3zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
-  },
   "FW0W3ZP/A": {
    "cat": "mac",
    "d": {
@@ -1061,6 +1045,32 @@
     "t": "14-inch MacBook Pro Apple M4 Chip with 10-Core CPU and 10-Core GPU - Space Black",
     "u": "/sg/shop/product/fcx04zp/a/refurbished-14-inch-macbook-pro-apple-m4-chip-with-10%E2%80%91core-cpu-and-10%E2%80%91core-gpu-space-black"
    },
+   "FCX44ZP/A": {
+    "d": {
+     "dimensionCapacity": "512gb",
+     "dimensionColor": "silver",
+     "dimensionRelYear": "2024",
+     "refurbClearModel": "macmini",
+     "tsMemorySize": "24gb"
+    },
+    "p": 1949.0,
+    "s": "2026-11-19T09:25:20+00:00",
+    "t": "Mac mini Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU, Gigabit Ethernet",
+    "u": "/sg/shop/product/fcx44zp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-12-Core-CPU-and-16-Core-GPU-Gigabit-Ethernet-"
+   },
+   "FCYT4ZP/A": {
+    "d": {
+     "dimensionCapacity": "512gb",
+     "dimensionColor": "silver",
+     "dimensionRelYear": "2024",
+     "refurbClearModel": "macmini",
+     "tsMemorySize": "24gb"
+    },
+    "p": 1489.0,
+    "s": "2026-11-19T09:25:20+00:00",
+    "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
+    "u": "/sg/shop/product/fcyt4zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
+   },
    "FD2P4ZP/A": {
     "d": {
      "dimensionCapacity": "512gb",
@@ -1834,6 +1844,32 @@
     "t": "Mac Studio Apple M3 Ultra chip with 28-Core CPU and 60-Core GPU",
     "u": "/sg/shop/product/fu973zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU"
    },
+   "FU9D3ZP/A": {
+    "d": {
+     "dimensionCapacity": "256gb",
+     "dimensionColor": "silver",
+     "dimensionRelYear": "2024",
+     "refurbClearModel": "macmini",
+     "tsMemorySize": "16gb"
+    },
+    "p": 979.0,
+    "s": "2026-11-19T09:25:20+00:00",
+    "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
+    "u": "/sg/shop/product/fu9d3zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
+   },
+   "FU9E3ZP/A": {
+    "d": {
+     "dimensionCapacity": "512gb",
+     "dimensionColor": "silver",
+     "dimensionRelYear": "2024",
+     "refurbClearModel": "macmini",
+     "tsMemorySize": "16gb"
+    },
+    "p": 1229.0,
+    "s": "2026-11-19T09:25:20+00:00",
+    "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
+    "u": "/sg/shop/product/fu9e3zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
+   },
    "FW1H3ZP/A": {
     "d": {
      "dimensionCapacity": "512gb",
@@ -2347,6 +2383,19 @@
     "s": "2026-11-17T20:00:47+00:00",
     "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
     "u": "/sg/shop/product/g1cd7zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
+   },
+   "G1CF9ZP/A": {
+    "d": {
+     "dimensionCapacity": "256gb",
+     "dimensionColor": "silver",
+     "dimensionRelYear": "2024",
+     "refurbClearModel": "macmini",
+     "tsMemorySize": "24gb"
+    },
+    "p": 1229.0,
+    "s": "2026-11-19T09:25:20+00:00",
+    "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
+    "u": "/sg/shop/product/g1cf9zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
    },
    "G1CW0ZP/A": {
     "d": {
