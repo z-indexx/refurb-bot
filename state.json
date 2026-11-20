@@ -1,10 +1,7 @@
 {
  "daily": {
-  "counts": {
-   "restock": 15,
-   "soldout": 1
-  },
-  "last": "2026-11-19"
+  "counts": {},
+  "last": "2026-11-20"
  },
  "families": {
   "mac": [
