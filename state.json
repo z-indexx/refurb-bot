@@ -4295,7 +4295,9 @@
    }
   }
  },
- "suspect": {},
+ "suspect": {
+  "mac": 1
+ },
  "telegram_offset": 489482112,
  "version": 1,
  "watches": [
