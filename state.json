@@ -562,6 +562,23 @@
    "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Midnight",
    "u": "/sg/shop/product/g1l60zp/a"
   },
+  "G1L62ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "midnight",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "32gb"
+   },
+   "done": true,
+   "p": 2249.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-21T11:15:24+00:00",
+   "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Midnight",
+   "u": "/sg/shop/product/g1l62zp/a"
+  },
   "G1LQ0ZP/A": {
    "cat": "mac",
    "d": {
@@ -3911,20 +3928,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Midnight",
     "u": "/sg/shop/product/g1l61zp/a"
-   },
-   "G1L62ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "midnight",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "32gb"
-    },
-    "p": 2249.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Midnight",
-    "u": "/sg/shop/product/g1l62zp/a"
    },
    "G1L83ZP/A": {
     "d": {
