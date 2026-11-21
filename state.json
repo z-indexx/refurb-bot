@@ -1,7 +1,7 @@
 {
  "daily": {
   "counts": {
-   "soldout": 1
+   "soldout": 2
   },
   "last": "2026-11-21"
  },
@@ -137,6 +137,21 @@
    "since": "2026-11-12T10:20:29+00:00",
    "t": "13-inch MacBook Air Apple M2 Chip with 8-Core CPU and 8-Core GPU - Midnight",
    "u": "/sg/shop/product/fly33zp/a/refurbished-13-inch-macbook-air-apple-m2-chip-with-8%E2%80%91core-cpu-and-8%E2%80%91core-gpu-midnight"
+  },
+  "FU963ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio",
+    "tsMemorySize": "36gb"
+   },
+   "done": true,
+   "p": 2729.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-21T17:20:25+00:00",
+   "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
+   "u": "/sg/shop/product/fu963zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
   },
   "FW1L3ZP/A": {
    "cat": "mac",
@@ -665,6 +680,23 @@
    "since": "2026-11-10T05:05:21+00:00",
    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
    "u": "/sg/shop/product/g1m22zp/a"
+  },
+  "G1MH6ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "14inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "48gb"
+   },
+   "done": true,
+   "p": 3989.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-21T17:20:25+00:00",
+   "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Silver",
+   "u": "/sg/shop/product/g1mh6zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver"
   },
   "G1MH8ZP/A": {
    "cat": "mac",
@@ -1872,18 +1904,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "15-inch MacBook Air Apple M3 Chip with 8-Core CPU and 10-Core GPU - Midnight",
     "u": "/sg/shop/product/fryv3zp/a/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Midnight"
-   },
-   "FU963ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio",
-     "tsMemorySize": "36gb"
-    },
-    "p": 2729.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
-    "u": "/sg/shop/product/fu963zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
    },
    "FU973ZP/A": {
     "d": {
@@ -4079,20 +4099,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Silver",
     "u": "/sg/shop/product/g1mh4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver"
-   },
-   "G1MH6ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "14inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "48gb"
-    },
-    "p": 3989.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Silver",
-    "u": "/sg/shop/product/g1mh6zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver"
    },
    "G1MHAZP/A": {
     "d": {
