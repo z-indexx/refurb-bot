@@ -1,7 +1,7 @@
 {
  "daily": {
   "counts": {
-   "soldout": 1
+   "soldout": 2
   },
   "last": "2026-11-22"
  },
@@ -731,6 +731,23 @@
    "since": "2026-11-21T12:45:26+00:00",
    "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Silver",
    "u": "/sg/shop/product/g1mh8zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver"
+  },
+  "G1ML1ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "2tb",
+    "dimensionColor": "spaceblack",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "14inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "48gb"
+   },
+   "done": true,
+   "p": 4559.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-22T08:45:29+00:00",
+   "t": "14-inch MacBook Pro Apple M5 Pro chip with 15-Core CPU and 16-Core GPU, Nano-texture display - Space Black",
+   "u": "/sg/shop/product/g1ml1zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Space-Black"
   },
   "G1MLFZP/A": {
    "cat": "mac",
@@ -4161,20 +4178,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "14-inch MacBook Pro Apple M5 Pro chip with 15-Core CPU and 16-Core GPU, Nano-texture display - Space Black",
     "u": "/sg/shop/product/g1ml0zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Space-Black"
-   },
-   "G1ML1ZP/A": {
-    "d": {
-     "dimensionCapacity": "2tb",
-     "dimensionColor": "spaceblack",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "14inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "48gb"
-    },
-    "p": 4559.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "14-inch MacBook Pro Apple M5 Pro chip with 15-Core CPU and 16-Core GPU, Nano-texture display - Space Black",
-    "u": "/sg/shop/product/g1ml1zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Space-Black"
    },
    "G1ML4ZP/A": {
     "d": {
