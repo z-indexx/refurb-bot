@@ -1,7 +1,7 @@
 {
  "daily": {
   "counts": {
-   "soldout": 2
+   "soldout": 3
   },
   "last": "2026-11-23"
  },
@@ -748,6 +748,23 @@
    "since": "2026-11-10T05:05:21+00:00",
    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
    "u": "/sg/shop/product/g1m22zp/a"
+  },
+  "G1MH4ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "14inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "24gb"
+   },
+   "done": true,
+   "p": 3219.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-23T14:50:30+00:00",
+   "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Silver",
+   "u": "/sg/shop/product/g1mh4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver"
   },
   "G1MH6ZP/A": {
    "cat": "mac",
@@ -4165,20 +4182,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "14-inch MacBook Pro Apple M5 Pro chip with 15-Core CPU and 16-Core GPU, Nano-texture display - Silver",
     "u": "/sg/shop/product/g1mh0zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Nano-texture-display-Silver"
-   },
-   "G1MH4ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "14inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "24gb"
-    },
-    "p": 3219.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Silver",
-    "u": "/sg/shop/product/g1mh4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Silver"
    },
    "G1MHAZP/A": {
     "d": {
