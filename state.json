@@ -138,6 +138,23 @@
    "t": "14-inch MacBook Pro Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
    "u": "/sg/shop/product/fde44zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver"
   },
+  "FDH94ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "24gb"
+   },
+   "done": true,
+   "p": 2249.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-23T16:20:28+00:00",
+   "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
+   "u": "/sg/shop/product/fdh94zp/a"
+  },
   "FDHK4ZP/A": {
    "cat": "mac",
    "d": {
@@ -1322,20 +1339,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
     "u": "/sg/shop/product/fdh84zp/a"
-   },
-   "FDH94ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "24gb"
-    },
-    "p": 2249.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
-    "u": "/sg/shop/product/fdh94zp/a"
    },
    "FDHA4ZP/A": {
     "d": {
