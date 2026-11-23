@@ -477,6 +477,23 @@
    "t": "16-inch MacBook Pro Apple M4 Max Chip with 16-Core CPU and 40-Core GPU - Space Black",
    "u": "/sg/shop/product/g1fw9zp/a/Refurbished-16-inch-MacBook-Pro-Apple-M4-Max-Chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
   },
+  "G1GS2ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2025",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "32gb"
+   },
+   "done": true,
+   "p": 1999.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-23T02:10:26+00:00",
+   "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Silver",
+   "u": "/sg/shop/product/g1gs2zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver"
+  },
   "G1H70ZP/A": {
    "cat": "mac",
    "d": {
@@ -3361,20 +3378,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Silver",
     "u": "/sg/shop/product/g1gs0zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver"
-   },
-   "G1GS2ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2025",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "32gb"
-    },
-    "p": 1999.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Silver",
-    "u": "/sg/shop/product/g1gs2zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver"
    },
    "G1GT0ZP/A": {
     "d": {
