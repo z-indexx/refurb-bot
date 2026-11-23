@@ -155,6 +155,23 @@
    "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
    "u": "/sg/shop/product/fdhk4zp/a"
   },
+  "FGDT4ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "2tb",
+    "dimensionColor": "spaceblack",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "14inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "24gb"
+   },
+   "done": true,
+   "p": 3819.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-23T10:45:24+00:00",
+   "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Space Black",
+   "u": "/sg/shop/product/fgdt4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black"
+  },
   "FLY33ZP/A": {
    "cat": "mac",
    "d": {
@@ -1698,20 +1715,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "14-inch MacBook Pro Apple M5 Pro chip with 15-Core CPU and 16-Core GPU - Space Black",
     "u": "/sg/shop/product/fgdr4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-15%E2%80%91Core-CPU-and-16%E2%80%91Core-GPU-Space-Black"
-   },
-   "FGDT4ZP/A": {
-    "d": {
-     "dimensionCapacity": "2tb",
-     "dimensionColor": "spaceblack",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "14inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "24gb"
-    },
-    "p": 3819.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "14-inch MacBook Pro Apple M5 Pro chip with 18-Core CPU and 20-Core GPU - Space Black",
-    "u": "/sg/shop/product/fgdt4zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Pro-chip-with-18%E2%80%91Core-CPU-and-20%E2%80%91Core-GPU-Space-Black"
    },
    "FGDU4ZP/A": {
     "d": {
