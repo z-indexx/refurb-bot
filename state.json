@@ -345,6 +345,21 @@
    "t": "Mac Studio Apple M4 Max chip with 16-Core CPU and 40-Core GPU",
    "u": "/sg/shop/product/g1cd4zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU"
   },
+  "G1CD7ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "2tb",
+    "dimensionRelYear": "2025",
+    "refurbClearModel": "macstudio",
+    "tsMemorySize": "36gb"
+   },
+   "done": true,
+   "p": 3749.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-24T03:50:27+00:00",
+   "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
+   "u": "/sg/shop/product/g1cd7zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
+  },
   "G1CE3ZP/A": {
    "cat": "mac",
    "d": {
@@ -2685,18 +2700,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
     "u": "/sg/shop/product/g1cd3zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
-   },
-   "G1CD7ZP/A": {
-    "d": {
-     "dimensionCapacity": "2tb",
-     "dimensionRelYear": "2025",
-     "refurbClearModel": "macstudio",
-     "tsMemorySize": "36gb"
-    },
-    "p": 3749.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
-    "u": "/sg/shop/product/g1cd7zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
    },
    "G1CF9ZP/A": {
     "d": {
