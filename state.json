@@ -102,6 +102,23 @@
    "t": "14-inch MacBook Pro Apple M4 Chip with 10-Core CPU and 10-Core GPU - Silver",
    "u": "/sg/shop/product/fcx14zp/a/refurbished-14-inch-macbook-pro-apple-m4-chip-with-10%E2%80%91core-cpu-and-10%E2%80%91core-gpu-silver"
   },
+  "FDE04ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "spaceblack",
+    "dimensionRelYear": "2025",
+    "dimensionScreensize": "14inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "16gb"
+   },
+   "done": true,
+   "p": 1849.0,
+   "s": "2026-11-24T09:15:32+00:00",
+   "since": "2026-11-25T02:25:19+00:00",
+   "t": "14-inch MacBook Pro Apple M5 chip with 10-Core CPU and 10-Core GPU - Space Black",
+   "u": "/sg/shop/product/fde04zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Black"
+  },
   "FDE44ZP/A": {
    "cat": "mac",
    "d": {
@@ -1217,20 +1234,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "24-inch iMac Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet - Orange",
     "u": "/sg/shop/product/fd2w4zp/a/refurbished-24-inch-imac-apple-m4-chip-with-10-core-cpu-and-10-core-gpu-gigabit-ethernet-orange"
-   },
-   "FDE04ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "spaceblack",
-     "dimensionRelYear": "2025",
-     "dimensionScreensize": "14inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "16gb"
-    },
-    "p": 1849.0,
-    "s": "2026-11-24T09:15:32+00:00",
-    "t": "14-inch MacBook Pro Apple M5 chip with 10-Core CPU and 10-Core GPU - Space Black",
-    "u": "/sg/shop/product/fde04zp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Space-Black"
    },
    "FDE14ZP/A": {
     "d": {
