@@ -643,6 +643,23 @@
    "t": "Mac mini Apple M4 Pro Chip with 14-Core CPU and 20-Core GPU, Gigabit Ethernet",
    "u": "/sg/shop/product/g1kzqzp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-14-Core-CPU-and-20-Core-GPU-Gigabit-Ethernet-"
   },
+  "G1L02ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "32gb"
+   },
+   "done": true,
+   "p": 2249.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-25T05:30:40+00:00",
+   "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
+   "u": "/sg/shop/product/g1l02zp/a"
+  },
   "G1L52ZP/A": {
    "cat": "mac",
    "d": {
@@ -4026,20 +4043,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
     "u": "/sg/shop/product/g1l01zp/a"
-   },
-   "G1L02ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "32gb"
-    },
-    "p": 2249.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
-    "u": "/sg/shop/product/g1l02zp/a"
    },
    "G1L23ZP/A": {
     "d": {
