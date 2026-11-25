@@ -202,6 +202,22 @@
    "t": "Mac Studio Apple M4 Max chip with 14-Core CPU and 32-Core GPU",
    "u": "/sg/shop/product/fu963zp/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU"
   },
+  "FU9D3ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "256gb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2024",
+    "refurbClearModel": "macmini",
+    "tsMemorySize": "16gb"
+   },
+   "done": true,
+   "p": 979.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-25T07:00:42+00:00",
+   "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
+   "u": "/sg/shop/product/fu9d3zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
+  },
   "FW1L3ZP/A": {
    "cat": "mac",
    "d": {
@@ -2040,19 +2056,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "Mac Studio Apple M3 Ultra chip with 28-Core CPU and 60-Core GPU",
     "u": "/sg/shop/product/fu973zp/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU"
-   },
-   "FU9D3ZP/A": {
-    "d": {
-     "dimensionCapacity": "256gb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2024",
-     "refurbClearModel": "macmini",
-     "tsMemorySize": "16gb"
-    },
-    "p": 979.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
-    "u": "/sg/shop/product/fu9d3zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
    },
    "FU9E3ZP/A": {
     "d": {
