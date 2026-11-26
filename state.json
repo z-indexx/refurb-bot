@@ -457,6 +457,23 @@
    "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, 10Gb Ethernet",
    "u": "/sg/shop/product/g1cf0zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-10Gb-Ethernet-"
   },
+  "G1CT1ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "256gb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2025",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "24gb"
+   },
+   "done": true,
+   "p": 1619.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-26T14:25:24+00:00",
+   "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Silver",
+   "u": "/sg/shop/product/g1ct1zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver"
+  },
   "G1CX1ZP/A": {
    "cat": "mac",
    "d": {
@@ -2774,20 +2791,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "Mac mini Apple M4 Chip with 10-Core CPU and 10-Core GPU, Gigabit Ethernet",
     "u": "/sg/shop/product/g1cf9zp/a/Refurbished-Mac-mini-Apple-M4-Chip-with-10-Core-CPU-and-10-Core-GPU-Gigabit-Ethernet-"
-   },
-   "G1CT1ZP/A": {
-    "d": {
-     "dimensionCapacity": "256gb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2025",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "24gb"
-    },
-    "p": 1619.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Silver",
-    "u": "/sg/shop/product/g1ct1zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Silver"
    },
    "G1CU0ZP/A": {
     "d": {
