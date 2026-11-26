@@ -221,6 +221,23 @@
    "t": "15-inch MacBook Air Apple M3 Chip with 8-Core CPU and 10-Core GPU - Silver",
    "u": "/sg/shop/product/fryp3zp/a/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Silver"
   },
+  "FRYV3ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "midnight",
+    "dimensionRelYear": "2024",
+    "dimensionScreensize": "15inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "8gb"
+   },
+   "done": true,
+   "p": 1559.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-26T07:25:21+00:00",
+   "t": "15-inch MacBook Air Apple M3 Chip with 8-Core CPU and 10-Core GPU - Midnight",
+   "u": "/sg/shop/product/fryv3zp/a/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Midnight"
+  },
   "FU963ZP/A": {
    "cat": "mac",
    "d": {
@@ -2102,20 +2119,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "MacBook Neo Apple A18 Pro chip with Touch ID - Blush",
     "u": "/sg/shop/product/fhfj4zp/a/13%E2%80%91inch-macbook-neo-blush"
-   },
-   "FRYV3ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "midnight",
-     "dimensionRelYear": "2024",
-     "dimensionScreensize": "15inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "8gb"
-    },
-    "p": 1559.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "15-inch MacBook Air Apple M3 Chip with 8-Core CPU and 10-Core GPU - Midnight",
-    "u": "/sg/shop/product/fryv3zp/a/Refurbished-15-inch-MacBook-Air-Apple-M3-Chip-with-8-Core-CPU-and-10-Core-GPU-Midnight"
    },
    "FU973ZP/A": {
     "d": {
