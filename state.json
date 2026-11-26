@@ -810,6 +810,23 @@
    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
    "u": "/sg/shop/product/g1lt1zp/a"
   },
+  "G1LW1ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "512gb",
+    "dimensionColor": "midnight",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "15inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "32gb"
+   },
+   "done": true,
+   "p": 2369.0,
+   "s": "2026-11-24T09:15:32+00:00",
+   "since": "2026-11-26T06:20:28+00:00",
+   "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Midnight",
+   "u": "/sg/shop/product/g1lw1zp/a"
+  },
   "G1LY2ZP/A": {
    "cat": "mac",
    "d": {
@@ -4271,20 +4288,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Midnight",
     "u": "/sg/shop/product/g1lw0zp/a"
-   },
-   "G1LW1ZP/A": {
-    "d": {
-     "dimensionCapacity": "512gb",
-     "dimensionColor": "midnight",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "15inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "32gb"
-    },
-    "p": 2369.0,
-    "s": "2026-11-24T09:15:32+00:00",
-    "t": "15-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Midnight",
-    "u": "/sg/shop/product/g1lw1zp/a"
    },
    "G1LY0ZP/A": {
     "d": {
