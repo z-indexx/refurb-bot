@@ -153,6 +153,23 @@
    "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Silver",
    "u": "/sg/shop/product/fdh94zp/a"
   },
+  "FDHD4ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "starlight",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "13inch",
+    "refurbClearModel": "macbookair",
+    "tsMemorySize": "24gb"
+   },
+   "done": true,
+   "p": 2249.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-27T03:40:29+00:00",
+   "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
+   "u": "/sg/shop/product/fdhd4zp/a"
+  },
   "FDVC4ZP/A": {
    "cat": "mac",
    "d": {
@@ -1564,20 +1581,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
     "u": "/sg/shop/product/fdhc4zp/a"
-   },
-   "FDHD4ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "starlight",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "13inch",
-     "refurbClearModel": "macbookair",
-     "tsMemorySize": "24gb"
-    },
-    "p": 2249.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "13-inch MacBook Air Apple M5 chip with 10-Core CPU and 10-Core GPU - Starlight",
-    "u": "/sg/shop/product/fdhd4zp/a"
    },
    "FDHE4ZP/A": {
     "d": {
