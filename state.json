@@ -1135,6 +1135,23 @@
    "t": "14-inch MacBook Pro Apple M5 Max chip with 18-Core CPU and 40-Core GPU - Space Black",
    "u": "/sg/shop/product/g1mnezp/a/Refurbished-14-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Space-Black"
   },
+  "G1MYBZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "2tb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2026",
+    "dimensionScreensize": "16inch",
+    "refurbClearModel": "macbookpro",
+    "tsMemorySize": "64gb"
+   },
+   "done": true,
+   "p": 6459.0,
+   "s": "2026-11-27T14:55:21+00:00",
+   "since": "2026-11-27T15:05:21+00:00",
+   "t": "16-inch MacBook Pro Apple M5 Max chip with 18-Core CPU and 40-Core GPU - Silver",
+   "u": "/sg/shop/product/g1mybzp/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Silver"
+  },
   "G1N00ZP/A": {
    "cat": "mac",
    "d": {
@@ -4563,20 +4580,6 @@
     "s": "2026-11-24T09:15:32+00:00",
     "t": "16-inch MacBook Pro Apple M5 Max chip with 18-Core CPU and 40-Core GPU, Nano-texture display - Silver",
     "u": "/sg/shop/product/g1my9zp/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Nano-texture-display-Silver"
-   },
-   "G1MYBZP/A": {
-    "d": {
-     "dimensionCapacity": "2tb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2026",
-     "dimensionScreensize": "16inch",
-     "refurbClearModel": "macbookpro",
-     "tsMemorySize": "64gb"
-    },
-    "p": 6459.0,
-    "s": "2026-11-27T14:55:21+00:00",
-    "t": "16-inch MacBook Pro Apple M5 Max chip with 18-Core CPU and 40-Core GPU - Silver",
-    "u": "/sg/shop/product/g1mybzp/a/Refurbished-16-inch-MacBook-Pro-Apple-M5-Max-chip-with-18%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU-Silver"
    },
    "G1N02ZP/A": {
     "d": {
