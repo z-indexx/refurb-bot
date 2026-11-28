@@ -661,6 +661,22 @@
    "t": "13-inch MacBook Air Apple M4 chip with 10-Core CPU and 10-Core GPU - Sky Blue",
    "u": "/sg/shop/product/g1h70zp/a/Refurbished-13-inch-MacBook-Air-Apple-M4-chip-with-10%E2%80%91Core-CPU-and-10%E2%80%91Core-GPU-Sky-Blue"
   },
+  "G1JV1ZP/A": {
+   "cat": "mac",
+   "d": {
+    "dimensionCapacity": "1tb",
+    "dimensionColor": "silver",
+    "dimensionRelYear": "2024",
+    "refurbClearModel": "macmini",
+    "tsMemorySize": "48gb"
+   },
+   "done": true,
+   "p": 3099.0,
+   "s": "2026-11-21T00:10:33+00:00",
+   "since": "2026-11-28T02:10:26+00:00",
+   "t": "Mac mini Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU, Gigabit Ethernet",
+   "u": "/sg/shop/product/g1jv1zp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-12-Core-CPU-and-16-Core-GPU-Gigabit-Ethernet-"
+  },
   "G1JV7ZP/A": {
    "cat": "mac",
    "d": {
@@ -3835,19 +3851,6 @@
     "s": "2026-11-21T00:10:33+00:00",
     "t": "Mac mini Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU, 10Gb Ethernet",
     "u": "/sg/shop/product/g1jv0zp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-12-Core-CPU-and-16-Core-GPU-10Gb-Ethernet-"
-   },
-   "G1JV1ZP/A": {
-    "d": {
-     "dimensionCapacity": "1tb",
-     "dimensionColor": "silver",
-     "dimensionRelYear": "2024",
-     "refurbClearModel": "macmini",
-     "tsMemorySize": "48gb"
-    },
-    "p": 3099.0,
-    "s": "2026-11-21T00:10:33+00:00",
-    "t": "Mac mini Apple M4 Pro Chip with 12-Core CPU and 16-Core GPU, Gigabit Ethernet",
-    "u": "/sg/shop/product/g1jv1zp/a/Refurbished-Mac-mini-Apple-M4-Pro-Chip-with-12-Core-CPU-and-16-Core-GPU-Gigabit-Ethernet-"
    },
    "G1JVGZP/A": {
     "d": {
